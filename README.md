@@ -1,2 +1,2 @@
 # Shadhin-Mobile-App-for-Special-Childs
-Mobile Application for differently abled children 
+Shadhin is an Android application to provide teaching metarials in an interactive tool  for better learning and behavioral therapy for differently abled children  
